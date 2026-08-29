@@ -1,0 +1,18 @@
+# model weights — hosted on the HF Hub, fetched with ocr_weights/download.py
+ocr_weights/*.pt
+
+# generated artifacts — root pipeline (Table 3)
+/page_images/
+/anchors/
+/results/
+
+# generated artifacts inside external_datasets (regenerated).
+# NOTE: external_datasets/*/results/ IS tracked (shipped predictions + pickles).
+external_datasets/*/page_images/
+external_datasets/*/anchors/
+
+logs/
+metrics*.csv
+__pycache__/
+*.pyc
+!**/.gitkeep

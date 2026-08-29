@@ -1,0 +1,51 @@
+CASSIS.
+
+Plate.    Species.
+abbreviata, Lamarck        VIII.
+achatina, Lamarck           X.
+areola, (Buce.) Linn.      IX.
+bisulcata, Schubert & Wagner  III.
+canaliculata, (Cassidea) Brug.  III.
+coarctata, Gray             VI.
+cornuta, (Buce.) Linn.      I.
+coronulata, Sowerby         XII.
+crumena, Lamarck            IV.
+decussata, (Buce.) Linn.    II.
+erinaceus, Lamarck           VII.
+exarata, Reeve              XII.
+fasciata, Lamarck            IV.
+fimbriata, Quoy & Gaimard   VII.
+flammea, (Buce.) Linn.      V.
+glauca, (Buce.) Linn.       XII.
+granulosa, Lamarck           IX.
+inflata, (Buce.) Shaw       IX.
+Japonica, Reeve              IX.
+labiata, Chemnitz            I.
+lactea, Kiener               VIII.
+Madagascariensis, Lamarck    II.
+Massenæ, Kiener              VI.
+
+Species.    Plate.
+18    paucirugis, Menke        VIII.
+28    pennata, Lamarck         VIII.
+24    pila, Reeve              IX.
+6     plicaria, Lamarck        X.
+8     plicata, (Buce.) Linn.   X.
+14    plicata, Martini         IV.
+2     pomum, Schubert & Wagner V.
+31    pyrum, Lamarck            XI.
+10    recurvirostrum, (Buce.) Wood VII.
+4     rufa, (Buce.) Linn.      VIII.
+15    Saburon, Adanson         V.
+32    semigranosa, Lamarck     I.
+9     spinosa, (Buce.) Gronov. IV.
+17    sulcosa, (Buce.) Born.   XI.
+12    tenuis, Gray             VI.
+33    testiculus, (Buce.) Linn. IV.
+22    torquata, Reeve          I.
+22    tuberosa, (Cassidea) Brug. III.
+23    turgida, Reeve           X.
+2    undata, Deshayes          X.
+18    vibex, (Buce.) Linn.     VII.
+5     zebra, Lamarck            X.
+13    Zeylanica, Lamarck        XI.

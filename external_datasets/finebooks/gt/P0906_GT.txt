@@ -1,0 +1,101 @@
+CASSIS.
+
+Plate.
+
+Species.
+
+abbreviata, Lamarck ......... VIII. 18
+
+achatina, Lamarck .......... X. 28
+
+areola, (Bucc.) Linn. ........ IX. 24
+
+bisulcata, Schubert & Wagner . III. 6
+
+canaliculata, (Cassidea) Brug... III. 8
+
+coarctata, Gray ............ VI. 14
+
+cornuta, (Bucc.) Linn........ I. 2
+
+coronulata, Sowerby ......... XII. 31
+
+crumena, Lamarck .......... IV. 10
+
+decussata, (Bucc.) Linn...... II. 4
+
+erinaceus, Lamarck .......... VII. 15
+
+exarata, Reeve .............. XII. 32
+
+fasciata, Lamarck ........... IV. 9
+
+ﬁmbriata, Quoy & Gaimard ... VII. 17
+
+ﬂammea, (Bucc.) Linn........ V. 12
+
+glauca, (Bucc.) Linn. ....... XII. 33
+
+granulosa, Lamarck .......... IX. 22
+
+inﬂata, (Bucc.) Shaw ........ IX. 22
+
+Japonica, Reeve ............ IX. 23
+
+labiata, Chemnitz ........... I. 2
+
+lactea, Kiener .............. VIII. 18
+
+Madagascariensis, Lamarck ... II. 5
+
+Massenœ, Kiener ........... VI. 13
+
+Plate.
+
+Species
+
+paucirugis, Menke .......... VIII. 19
+
+pennata, Lamarck .......... VIII. 20
+
+pila, Reeve ................ IX. 21
+
+plicaria, Lamarck .......... X. 27
+
+plicata, (Bucc.) Linn. ....... X. 27
+
+plicata, Martini ............ IV. 10
+
+pomum, Schubert & Wagner ... V. 11
+
+pyrum, Lamarck ............ XI. 29
+
+recurvirostrum, (Bucc.) Wood . VII. 16
+
+rufa, (Bucc.) Linn. ......... VIII. 20
+
+Saburon, Adanson .......... V. 11
+
+semigranosa, Lamarck ....... I. 3
+
+spinosa, (Bucc.) Gronov...... IV. 9
+
+sulcosa, (Bucc.) Born........ XI. 30
+
+tenuis, Gray ............... VI. 13
+
+testiculus, (Bucc.) Linn. ..... IV. 10
+
+torquata, Reeve ............. I. 1
+
+tuberosa, (Cassidea) Brug..... III. 7
+
+turgida, Reeve .............. X. 25
+
+undata, Deshayes ........... X. 26
+
+vibex, (Bucc.) Linn. ........ VII. 15
+
+zebra, Lamarck ............. X. 26
+
+Zeylanica, Lamarck .......... XI. 29

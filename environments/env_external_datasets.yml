@@ -1,0 +1,19 @@
+# Environment for the external-dataset validation (external_datasets/).
+#
+# Covers the generic-anchor generator (onnxtr) and the metric/pickle tooling.
+# The other two steps reuse existing environments:
+#   * DHiSS/DHiSS+ anchors from page images -> env_render_and_anchors (doctr)
+#   * olmOCR-2 transcription via vLLM (run_vlm_vllm.py) -> env_mistral4_vllm (vllm)
+name: hit_external
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - "onnxtr[gpu]==0.9.0"
+      - jiwer
+      - scipy
+      - pandas
+      - pillow
+      - huggingface_hub

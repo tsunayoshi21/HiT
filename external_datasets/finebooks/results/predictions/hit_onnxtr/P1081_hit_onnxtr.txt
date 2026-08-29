@@ -1,0 +1,7 @@
+RAW_TEXT_START
+Page dimensions: 595.5x1024.0
+[266x872]VELKOLO
+[268x845]yroiony.
+[215x814]BAM.
+
+RAW_TEXT_END

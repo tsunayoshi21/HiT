@@ -1,0 +1,73 @@
+und zwei laterale Komponenten zu unterscheiden sind, da diese nur als sekundäre Modifikationen infolge der Beziehung zur Anlage des Nervensystems auftreten und unabhängig von der Einschmelzung der Beinanlagen sind.1) In gleicher Weise wie die Sterna kann man die mit Stücken der Lateralregion festverschmolzenen Terga als Zygoterga bezeichnen.
+
+Wendet man diese Ausdrucksweise auf das Abdomen von Eosentomon an, so ergibt sich für die Ventralplatten, daß diejenigen der ersten drei Segmente Sterna, die des vierten bis achten Segmentes sicher, die vier letzten wahrscheinlich Zygosterna sind. Die Rückenplatte betrachte ich als Zygoterga, da aus dem Vergleich mit Acerentomon (Berlese) sich ergibt, daß das dorsale Lateralstück in sie aufgenommen wurde. Das neben der Rückenplatte liegende Chitinband repräsentiert demnach eine Pleura. Dies Ergebnis ist vielleicht noch deshalb interessant, weil Voß auf Grund der Muskulatur wenigstens für den dorsalen Teil der echten Pleuren tergale Abkunft feststellte. Nach dem Befund bei den Proturen glaube ich mit der Möglichkeit rechnen zu müssen, daß die gesamten Sklerite der Lateralregion Abkömmlinge der Rückenplatte sind.
+
+Der morphologischen Deutung der Abdominalbeine von Eosentomon stehen keine wesentlichen Schwierigkeiten entgegen. Jedes Schreitbein zeigt zwei Hauptabschnitte, einen proximalen Basipodit (Börner) und einen distalen Telopodit (Verhoeff). Finden sich nun im Abdominalbeine zwei Glieder, so glaube ich nicht fehlzugehen, wenn ich das erste als Basipodit, das zweite als Telopodit anspreche. Im einzelnen dürfte dann der große, freie Teil des Basalgliedes die Coxä, die beiden dem Rumpf anliegenden Sklerite aber die Reste der Subcoxa repräsentieren. Den auf der Hinterseite der Coxä abgesetzten Teil als ein Meron (Walton) zu betrachten, ist gewagt, da einmal die Natur des Meron noch nicht ganz geklärt erscheint, und dann da ein Analogon des fraglichen Stückes an den Thorakalbeinen von Eosentomon fehlt. Ob das endständige Bläschen schließlich eine sekundäre Bildung ist oder in Analogie zu den Verhältnissen bei Thysanopteren einen Prätarsus darstellt, läßt sich bei der weitgehenden Reduktion nicht mehr nachweisen.
+
+Es ist nun noch die Frage zu entscheiden, wie diese proximalen Abdominalbeine der Proturen zu bezeichnen sind. Silvestri setzt dieselben den Styli der Thysanuren gleich. Nach dem vorher Gesagten ist das aber nicht angängig, da die Anhänge von Eosentomon dem ganzen Thorakalbeine homodynam sind und neben einem einfachen Sternum (Urosternum) liegen. Bei Machilis u. a. ist dagegen der Basipodit mit dem Sternum zu einem Zygosternum verschmolzen; die freien Styli können demnach nicht das ganze Bein repräsentieren, sondern höchstens einen Teil desselben, wobei hier davon abgesehen werden kann, ob sie als Anhänge oder als Telopoditrudimente zu deuten sind.
+
+1) Heymons fand embryologisch eine ziemlich verwinkelte Zusammensetzung der Ventralplatten, die er folgendermaßen gruppiert:
+
+<table>
+  <tr>
+    <th></th>
+    <th>Beinanlage</th>
+    <th>Lateralfeld</th>
+    <th>Medianfeld</th>
+    <th>Lateralfeld</th>
+    <th>Beinanlage</th>
+  </tr>
+  <tr>
+    <th>im Thorax:</th>
+    <td>Bein</td>
+    <td>Sternum</td>
+    <td></td>
+    <td>Bein</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>im Abdomen:</th>
+    <td>Beinanlage</td>
+    <td>Lateralfeld</td>
+    <td>Medianfeld</td>
+    <td>Lateralfeld</td>
+    <td>Beinanlage</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Sternum</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Ich glaube im Abdomen, mit Haase, eine der thorakalen sich anschließende Gruppierung annehmen zu müssen:
+
+<table>
+  <tr>
+    <th></th>
+    <th>Beinanlage</th>
+    <th>Lateralfeld</th>
+    <th>Medianfeld</th>
+    <th>Lateralfeld</th>
+    <th>Beinanlage</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Sternum s. str.</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Zygosternum</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>

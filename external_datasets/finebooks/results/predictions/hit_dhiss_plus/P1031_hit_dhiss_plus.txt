@@ -1,0 +1,56 @@
+von Tomocerus dem Fusionsprodukt von Mentum und Palpus entspricht und nicht dem Palpus allein. Ob der „Schild“ des Labiums von Tomocerus homolog mit dem Submentum von Eosentomon ist, muß nach den embryologischen Ergebnissen von Hoffmann als fraglich betrachtet werden.
+
+Zum Schlusse erscheint es noch wünschenswert, tabellarisch die Homologieen zwischen den einzelnen Komponenten der Mundteile, der Schreitbeine und einer hypothetischen einästigen Urextremität zusammenzustellen.
+
+<table>
+  <tr>
+    <th>Mandibel</th>
+    <th>I. Maxille</th>
+    <th>II. Maxille</th>
+    <th>Schreitbein</th>
+    <th>Urextremität</th>
+  </tr>
+  <tr>
+    <td>Basale</td>
+    <td>Cardo</td>
+    <td>Submentum</td>
+    <td>Subcoxa</td>
+    <td>Basipodit<br>[Protopodit]</td>
+  </tr>
+  <tr>
+    <td>Corpus</td>
+    <td>Stipes</td>
+    <td>Mentum</td>
+    <td>Coxa</td>
+    <td>Telopodit<br>[Endopodit]</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Palpus</td>
+    <td>Palpus</td>
+    <td>Telopodit</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>(Dentes mobiles)</td>
+    <td>Lacinia</td>
+    <td>Mala interior</td>
+    <td>(Coxomerite)</td>
+    <td>Interne Coxomerite<br>[Endite]</td>
+  </tr>
+  <tr>
+    <td>Apex</td>
+    <td>Galea</td>
+    <td>Mala exterior</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+Die entsprechenden Abschnitte am Crustaceenbein habe ich dabei nur in Klammern beigefügt, weil es mir noch keineswegs sicher erwiesen scheint, daß es sich um echte Homologie und nicht nur um eine durch eine parallele Entwicklung entstandene Homoplasie (Lankester) handelt; aus diesem Grunde blieben auch die äußeren Coxomerite (Epipodit und Exopodit) der Crustaceen unberücksichtigt.
+
+B. Die Bedeutung der Sklerite im Bauplan der Thorakalsegmente.
+
+Schon seit langem hat sich die vergleichende Entomologie bemüht, den ursprünglichen Aufbau des Insektenthorax aufzuklären. Versuche zur Rekonstruktion eines Schema für ein Insektensegment, auf welches sich alle verschiedenen, bei den ein zellenrezenten Insektengruppen vorkommenden Modifikationen zurückführen lassen sollten, sind bereits vielfach gemacht worden. Vergleichend morphologische Untersuchungen führten dabei die Autoren zu ganz verschiedenen Ergebnissen und neben die alte Auffassung von der Einheit der Segmente traten andere, welche ihre Zusammensetzung aus zwei, drei oder vier Metameren verteidigen.
+
+Es lag nahe, in der Untersuchung der Proturen Hinweise darauf zu suchen, welche dieser Theorien wohl die wahrscheinlichste sei. Dazu war es erforderlich, die bei den Proturen gemachten Erfahrungen in Beziehung zu setzen mit den Verhältnissen bei den höheren Insekten. Daß diese Vergleiche nicht überall mit derselben Sicherheit durchgeführt werden konnten, liegt bei den tiefgreifenden Modifikationen der Thorakalsegmente auf der Hand, zumal meist nur Literaturangaben benutzt werden konnten, ohne daß eine Nachuntersuchung möglich war. Aus diesem Grunde wurde dort, wo es sich hauptsächlich um theoretische Erwägung handelt, ausdrücklich auf ihre hypothetische Natur hingewiesen. Die Behandlung des Stoffes selbst ist so angeordnet, daß zuerst die Sklerite in ihrer axialen Zusammengehörigkeit besprochen werden, und dann hieraus die Begründung für die Nomenklatur und Schlüsse für die Zusammensetzung der Segmente entnommen werden. Von einer

@@ -1,0 +1,44 @@
+<table>
+  <tr>
+    <th>Eigene Nomenklatur</th>
+    <th>Nach Berlese</th>
+  </tr>
+  <tr>
+    <th colspan="2">Cardo</th>
+  </tr>
+  <tr>
+    <td>Stipes s. str.</td>
+    <td>Stipes</td>
+  </tr>
+  <tr>
+    <td>Palpiger</td>
+    <td>Palpale I</td>
+  </tr>
+  <tr>
+    <td>Palpale I</td>
+    <td>Palpale II</td>
+  </tr>
+  <tr>
+    <td>Palpale II</td>
+    <td>Palpale III</td>
+  </tr>
+  <tr>
+    <td>Palpale III</td>
+    <td></td>
+  </tr>
+  <tr>
+    <th colspan="2">Galea</th>
+  </tr>
+  <tr>
+    <td>Lobus externus</td>
+    <td>Laciniae</td>
+  </tr>
+  <tr>
+    <td>Lobus internus</td>
+    <td></td>
+  </tr>
+</table>
+
+Die eingangs für das Labium von Eosentomon angewandte Nomenklatur dürfte im allgemeinen eines Kommentars nicht bedürfen. Zu erwähnen ist nur, daß Berlese in der hyalinen Platte allein die Galea erblicken will, während er die vorderste der Mentum-Borsten als „Lacinia?“ bezeichnet. Das scheint mir jedoch nicht möglich, da diese Borste in keiner Weise von den übrigen unterschieden ist. Fraglich ist höchstens, ob man in den Papillen auf den hyalinen Platten die Anfänge zur Absonderung einer zweiten Lade erblicken darf. Aber auch das scheint mir nicht gerechtfertigt. Daß es sich dagegen bei den hyalinen Platten in der Tat um die Ladenteile des Labiums handelt, geht klar aus den Verhältnissen bei Acerentomon hervor, wo sie in lange, den Maxillarladen (Innenladen) sehr ähnliche Spitzen ausgezogen sind.
+
+Von gewissem Interesse ist es nun, mit dem Labium von Eosentomon dasjenige von Tomocerus zu vergleichen, so wie es von Hoffmann dargestellt wird. Dabei überrascht sofort die außerordentliche Ähnlichkeit beider Gebilde und legt eine Homologisierung ihrer Komponenten nahe. Die „vordere höckerige Partie“ (Hoffmann) des Collembolenlabiums findet sich in ähnlicher Weise auch bei Eosentomon, und selbst der etwas isolierte Höcker auf der Innenseite ist ebenfalls vorhanden. Vor diesem borstentragenden Abschnitte liegt bei Tomocerus eine „hyaline Platte“ (Hoffmann), bei Eosentomon das etwas länger vorgezogene dreieckige Stück durchsichtigen Chitins. Mußte man nun für Eosentomon annehmen, daß die hyaline Platte dem Ladenteile entspricht, so scheint mir die gleiche Deutung auch für die Collembolen erforderlich; die hyaline Platte kann also nicht als sekundäre Bildung (Hoffmann) aufgefaßt werden, selbst wenn sie embryonal erst sehr spät auftritt. Verfolgt man jetzt das Labium weiter proximalwärts, so gelangt man zu der höckerigen Partie. Bei Tomocerus glaubte Hoffmann embryologisch gezeigt zu haben, daß dieser Teil dem Palpus entspräche. Ich möchte mich dieser Anschauung nicht ohne weiteres anschließen. Denn wenn bei Eosentomon der gleiche Bezirk vorhanden ist und außerdem sich ein Palpus findet, so scheint mir eine Homologie zwischen Höckerpartie und Palpus ausgeschlossen. Man kann sich dagegen vorstellen, daß der Palpus (so wie ihn Eosentomon zeigt) bei seiner Reduktion gleichsam plattgedrückt wird und den ganzen Ausschnitt des Mentums ausfüllt, so daß schließlich (bei Tomocerus) eine Trennungslinie nicht mehr zu finden ist. Man darf also annehmen, daß die „höckerige Partie“ am Labium

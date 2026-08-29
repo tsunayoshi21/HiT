@@ -1,0 +1,72 @@
+Kopfsomiten, die partiell postorale Lage des Acron¹) und die Homodynamie der Tentoriumäste mit Pleuralleisten.
+
+<table>
+  <tr>
+    <th>Thoracale</th>
+    <th>Labiale</th>
+    <th>Maxillare</th>
+    <th>Mandibulare</th>
+    <th>Postantennale</th>
+    <th>Antennale</th>
+    <th>Acron (Lob. ceph.) (Pars med.)</th>
+  </tr>
+  <tr>
+    <td>Sternum</td>
+    <td>Gula</td>
+    <td>Hypopharynx</td>
+    <td>Hypopharynx ?</td>
+    <td>Hypopharynx ?</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tergum</td>
+    <td>Gnathotergum</td>
+    <td>Occiput</td>
+    <td>Vertex ?</td>
+    <td>Vertex</td>
+    <td>Epipharynx</td>
+    <td>Labrum</td>
+  </tr>
+  <tr>
+    <td>Latus</td>
+    <td>Gnathopleura</td>
+    <td>Postgena</td>
+    <td>Gena ?</td>
+    <td>Gena</td>
+    <td>Clypeus</td>
+    <td>Frons</td>
+  </tr>
+  <tr>
+    <td>Pleuralapodem</td>
+    <td>—</td>
+    <td>R. posterior tentorii</td>
+    <td>Gelenkstab d. Mandibel</td>
+    <td>—</td>
+    <td>R. anterior tentorii</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>Extremität</td>
+    <td>II. Maxille</td>
+    <td>I. Maxille</td>
+    <td>Mandibel</td>
+    <td>—</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+</table>
+
+An diese Erörterungen über den Aufbau der Kopfkapsel seien noch einige Bemerkungen über die Mundteile angeschlossen.
+
+Was die morphologische Deutung der Mandibel anbelangt, so ist man ganz auf Analogieschlüsse angewiesen, da embryologische Daten darüber für Eosentomon bis jetzt noch nicht vorliegen.
+
+Die Untersuchungen von Hoffmann haben gezeigt, daß bei Tomocerus die Mandibel primär aus drei Gliedern besteht, aus deren basalem der Grundabschnitt etwa bis zu den Rotatorsehnen entsteht, während das distale den „Fuß“ und das mittlere den dazwischen gelegenen Teil der Mandibel aus sich hervorgehen läßt. Ich glaube daher nicht fehl zu gehen, wenn ich in dem nicht geschlossenen Basalstück der Proturenmandibel, ebenso wie bei Tomocerus, ein Homologon der Subcoxa, in dem röhrenförmigen die Coxa und in dem Endstück eine Lade (vermutlich die Galea) erblicke.
+
+Mit dieser Deutung schließe ich mich im wesentlichen an Berlese an; einer Begründung bedarf nur noch die Auffassung des Endstückes als Außenlade.
+
+Auf Grund embryologischer Befunde glaubte man (Heymons) die einfache Anlage der Mandibel pterygoter Insekten den äußerlich ähnlichen Anlagen der Maxillarladen gleichsetzen zu müssen. Die Mandibel des fertigen Insektes war demnach als Verschmelzungsprodukt von Coxomerit und Coxa (Heymons, Börner) zu betrachten, während die Subcoxa nur gelegentlich nachweisbar war. Dabei mußte angenommen werden, daß der Telopodit (Palpus) völlig reduziert sei.
+
+Morphologische Untersuchungen (Hansen u. a.) bestätigen diese Auffassung in weitgehendem Maße. Vergleicht man nun die Mandibel eines Diplopoden mit der Maxille eines Collembolen, so findet
+
+¹) Bei Insekten wird in der Regel angegeben, daß der vor dem Antennensegment gelegene Teil des Kopfes, das Acron s. lat. einfach angelegt wird. Bei Chilopoden gelang Heymons der Nachweis eines postoralen Präantennalsegmentes hinter dem präoralen Acron s. str. Da er mit Recht das Acron der Insekten dem vereinigten Acron und Präantennalsegment der Chilopoden gleichsetzt, muß also ein Teil des ursprünglich als präoral betrachteten Insekten-Acron postoral sein. Da nun von jedem postoralen Segmente der ventrale Bogen hinter der Mundöffnung zu suchen ist, müssen auch von den Segmenten des Procephalon ursprünglich Teile hinter dem Munde bzw. im Bezirke der Hypopharynx (Dorsalpartie) gelegen haben, ehe sie völliger Reduktion anheim fielen.

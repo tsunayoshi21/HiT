@@ -1,0 +1,381 @@
+INDEX OF EGG PLATES.
+
+<table>
+  <tr>
+    <th>Fig.</th>
+    <th>Pl.</th>
+    <th>Vol</th>
+    <th>Fig.</th>
+    <th>Pl.</th>
+    <th>Vol</th>
+    <th>Fig.</th>
+    <th>Pl.</th>
+    <th>Vol</th>
+  </tr>
+  <tr>
+    <td>Bearded Reedling</td>
+    <td>68</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Hawfinch</td>
+    <td>126-128</td>
+    <td>iv</td>
+    <td>2</td>
+    <td>Ring Ouzel</td>
+    <td>18-19</td>
+    <td>i</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Blackbird</td>
+    <td>10-17</td>
+    <td>i</td>
+    <td>I</td>
+    <td>Hedge-Sparrow</td>
+    <td>65-67</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Rock-Pipit</td>
+    <td>102</td>
+    <td>iii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Blackcap</td>
+    <td>38-41-64</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Hooded Crow</td>
+    <td>237-240</td>
+    <td>vii</td>
+    <td>2</td>
+    <td>Rook</td>
+    <td>241-244</td>
+    <td>vii</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Blue-Headed Wagtail</td>
+    <td>94</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>House-Sparrow</td>
+    <td>132-143</td>
+    <td>iv</td>
+    <td>2</td>
+    <td>Sand-Martin</td>
+    <td>118-119</td>
+    <td>iv</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Blue Tit</td>
+    <td>78-81</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Jackdaw</td>
+    <td>222-228</td>
+    <td>vi</td>
+    <td>2</td>
+    <td>Sedge-Warbler</td>
+    <td>61-62</td>
+    <td>ii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Brambling</td>
+    <td>156-157</td>
+    <td>v</td>
+    <td>2</td>
+    <td>Jay</td>
+    <td>216-217</td>
+    <td>vi</td>
+    <td>2</td>
+    <td>Siskin</td>
+    <td>131</td>
+    <td>iv</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Bullfinch</td>
+    <td>174-179</td>
+    <td>v</td>
+    <td>2</td>
+    <td>Lesser Whitethroat</td>
+    <td>35-37</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Snow-Bunting</td>
+    <td>207-209</td>
+    <td>vi</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Carrion Crow</td>
+    <td>233-236</td>
+    <td>vii</td>
+    <td>2</td>
+    <td>Linnet</td>
+    <td>158-167</td>
+    <td>v</td>
+    <td>2</td>
+    <td>Song Thrush</td>
+    <td>5-9</td>
+    <td>i</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Chaffinch</td>
+    <td>148-155</td>
+    <td>iv</td>
+    <td>2</td>
+    <td>Long-Tailed Tit</td>
+    <td>69</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Spotted Flycatcher</td>
+    <td>III-113</td>
+    <td>iii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Chiffchaff</td>
+    <td>49-51</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Magpie</td>
+    <td>218-221</td>
+    <td>vi</td>
+    <td>2</td>
+    <td>Starling</td>
+    <td>210-213</td>
+    <td>vi</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Chough</td>
+    <td>214-215</td>
+    <td>vi</td>
+    <td>2</td>
+    <td>Marsh-Tit</td>
+    <td>76-77</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Stonechat</td>
+    <td>21-22</td>
+    <td>i</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Cirl Bunting</td>
+    <td>96-97</td>
+    <td>v</td>
+    <td>2</td>
+    <td>Marsh Warbler</td>
+    <td>58-60</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Swallow</td>
+    <td>114-116</td>
+    <td>iv</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Coal-Tit</td>
+    <td>73-75</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Martin</td>
+    <td>117</td>
+    <td>iv</td>
+    <td>2</td>
+    <td>Tree Creeper</td>
+    <td>88-90</td>
+    <td>iii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Corn-Bunting</td>
+    <td>181-187</td>
+    <td>v</td>
+    <td>2</td>
+    <td>Meadow-Pipit</td>
+    <td>101</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Tree Pipit</td>
+    <td>97-100</td>
+    <td>iii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Crested Tit</td>
+    <td>82</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Missel Thrush</td>
+    <td>1-4</td>
+    <td>i</td>
+    <td>I</td>
+    <td>Tree Sparrow</td>
+    <td>144 147</td>
+    <td>iv</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Crossbill</td>
+    <td>180</td>
+    <td>v</td>
+    <td>2</td>
+    <td>Nightingale</td>
+    <td>29-31</td>
+    <td>i</td>
+    <td>I</td>
+    <td>Twite</td>
+    <td>172-173</td>
+    <td>v</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Dartford Warbler</td>
+    <td>45</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Nuthatch</td>
+    <td>83-84</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Wheatear</td>
+    <td>20</td>
+    <td>i</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Dipper</td>
+    <td>70</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Pied Flycatcher</td>
+    <td>110</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Whinchat</td>
+    <td>23</td>
+    <td>i</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Garden Warbler</td>
+    <td>42-44</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Pied Wagtail</td>
+    <td>91</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Whitethroat</td>
+    <td>32-34</td>
+    <td>ii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Golden-Crested Wren</td>
+    <td>46-48</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Raven</td>
+    <td>229-232</td>
+    <td>vii</td>
+    <td>2</td>
+    <td>White Wagtail</td>
+    <td>92</td>
+    <td>iii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Golden Oriole</td>
+    <td>103</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Red-Backed Shrike</td>
+    <td>104.108</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Willow Warbler</td>
+    <td>52-54</td>
+    <td>ii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Goldfinch</td>
+    <td>129-130</td>
+    <td>iv</td>
+    <td>2</td>
+    <td>Redbreast</td>
+    <td>25-28</td>
+    <td>i</td>
+    <td>I</td>
+    <td>Woodchat Shrike</td>
+    <td>109</td>
+    <td>iii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Grasshopper Warbler</td>
+    <td>63</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Redpoll</td>
+    <td>168-171</td>
+    <td>v</td>
+    <td>2</td>
+    <td>Wood-Warbler</td>
+    <td>55</td>
+    <td>ii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Great Tit</td>
+    <td>71-72</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Redstart</td>
+    <td>24</td>
+    <td>i</td>
+    <td>I</td>
+    <td>Wren</td>
+    <td>85-87</td>
+    <td>iii</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Greenfinch</td>
+    <td>120-125</td>
+    <td>iv</td>
+    <td>2</td>
+    <td>Reed-Bunting</td>
+    <td>198-206</td>
+    <td>vi</td>
+    <td>2</td>
+    <td>Yellow Bunting</td>
+    <td>188-195</td>
+    <td>v</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td>Grey Wagtail</td>
+    <td>93</td>
+    <td>iii</td>
+    <td>I</td>
+    <td>Reed Warbler</td>
+    <td>56-57</td>
+    <td>ii</td>
+    <td>I</td>
+    <td>Yellow Wagtail</td>
+    <td>95-96</td>
+    <td>iii</td>
+    <td>I</td>
+  </tr>
+</table>
+
+FINIS.

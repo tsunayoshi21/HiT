@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or the DHiSS anchors, please cite the paper."
+title: "HiT (Here is The Text): coordinate anchoring for historical-document OCR"
+abstract: >-
+  HiT injects word-level coordinate anchors, produced by a document-OCR recognizer
+  fine-tuned on the DHiSS dataset, into the prompt of a frozen vision-language model to
+  improve transcription of Spanish historical documents.
+authors:
+  - name: "Anonymous (double-blind submission)"
+version: "1.0.0"
+date-released: "2025-11-01"
+license: MIT
+# TODO (camera-ready): replace `authors`, add `doi` / `url`, and update `preferred-citation`.

@@ -1,0 +1,57 @@
+DOLIUM.
+
+ampullaceum, Philippi ........ I.
+Chinense (Bucc.), Chemnitz ... VI.
+costatum, Deshayes .......... V.
+crenulatum, Philippi ......... VII.
+Cumingii, Hanley ............ VIII.
+Deshayesii, Reeve ........... VIII.
+fasciatum (Bucc.), Bruguière .. VII.
+fimbriatum, Sowerby ......... III.
+galea (Bucc.), Linnaeus ...... I.
+Kieneri, Philippi ........... V.
+latilabre, Kiener ............ IV.
+maculatum, Lamarck .......... III.
+marginatum, Philippi ........ III.
+
+Species.
+1
+10
+8
+12
+13
+15
+11
+3
+1
+7
+5
+4
+3
+
+melanostoma, Jay ............ II.
+Minjac, Adanson ............. III.
+olearium (Bucc.), Bruguière ... VIII.
+perdix (Bucc.), Linnaeus ...... VI.
+plumatum, Green ............. VI.
+pomum (Buc.), Linnaeus ...... IV.
+ringens (Cassis), Swainson ... IV.
+tenue, Menke ................. I.
+tessellatum, Enc. Méth. ...... III.
+variegatum, Lamarck .......... V.
+variegatum, Philippi .......... VI.
+zonatum, Green ............... VII.
+
+Species.
+2
+3
+14
+9
+9
+6
+5
+1
+3
+7
+10
+12

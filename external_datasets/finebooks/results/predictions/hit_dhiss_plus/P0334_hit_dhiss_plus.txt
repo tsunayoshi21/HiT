@@ -1,0 +1,196 @@
+INDEX OF BIRDS.
+
+Those marked thus *, not being recognized as British Birds, are not figured.
+
+<table>
+  <tr>
+    <th>Vol. page</th>
+    <th>Vol. page</th>
+    <th>Vol. page</th>
+  </tr>
+  <tr>
+    <td>Acanthis cannabina ... ii 85</td>
+    <td>*Black-Eared Wheatear ... ii 203</td>
+    <td>Cotile riparia ... ii 38</td>
+  </tr>
+  <tr>
+    <td>Acanthis flavirostris ... ii 81</td>
+    <td>Black-Headed Bunting ... ii 106</td>
+    <td>Crested Lark ... ii 191</td>
+  </tr>
+  <tr>
+    <td>Acanthis linaria ... ii 73</td>
+    <td>*Black-Headed Wagtail ... ii 210</td>
+    <td>Crested Tit ... i 162</td>
+  </tr>
+  <tr>
+    <td>Acanthis rufescens ... ii 77</td>
+    <td>*Black Lark ... ii 195</td>
+    <td>Cyanecula suecica ... i 48</td>
+  </tr>
+  <tr>
+    <td>Accentor collaris ... i 133</td>
+    <td>Blue-Headed Wagtail ... i 186</td>
+    <td>*Cyanecula wolfi ... ii 204</td>
+  </tr>
+  <tr>
+    <td>Accentor modularis ... i 129</td>
+    <td>Blue-Tit ... i 158</td>
+    <td>Dartford Warbler ... i 81</td>
+  </tr>
+  <tr>
+    <td>Acredula candata ... i 145</td>
+    <td>Brambling ... ii 102</td>
+    <td>Daulias luscinia ... i 56</td>
+  </tr>
+  <tr>
+    <td>Acrocephalus aquaticus ... i 120</td>
+    <td>*Brandt's Siberian Bunting ii 125</td>
+    <td>*Daulias philomela ... ii 204</td>
+  </tr>
+  <tr>
+    <td>Acrocephalus palustris ... i 111</td>
+    <td>Bullfinch ... ii 57</td>
+    <td>*Desert Wheatear ... i 33</td>
+  </tr>
+  <tr>
+    <td>Acrocephalus phragmitis ... i 116</td>
+    <td>Calandrella brachydactyla ... ii 196</td>
+    <td>Dipper ... i 137</td>
+  </tr>
+  <tr>
+    <td>Acrocephalus streperus ... i 107</td>
+    <td>Calcarius lapponicus ... ii 130</td>
+    <td>*Dusky Thrush ... ii 202</td>
+  </tr>
+  <tr>
+    <td>*Acrocephalus turdoides ... i 115</td>
+    <td>*Calliope camtschatkensis ... i 128</td>
+    <td>*Emberiza aureola ... ii 117</td>
+  </tr>
+  <tr>
+    <td>*Aëdon familiaris ... ii 207</td>
+    <td>Carduelis elegans ... ii 69</td>
+    <td>*Emberiza cia ... ii 124</td>
+  </tr>
+  <tr>
+    <td>*Aëdon galactodes ... ii 207</td>
+    <td>*Carpodacus erythrinus ... ii 60</td>
+    <td>*Emberiza cioides ... ii 125</td>
+  </tr>
+  <tr>
+    <td>*Aëdon galactodes ... i 105</td>
+    <td>Carrion-Crow ... ii 171</td>
+    <td>Emberiza cirlus ... ii 117</td>
+  </tr>
+  <tr>
+    <td>Alauda arborea ... ii 188</td>
+    <td>Certhia familiaris ... i 173</td>
+    <td>Emberiza citrinella ... ii 112</td>
+  </tr>
+  <tr>
+    <td>Alauda arvensis ... ii 183</td>
+    <td>*Cettia cetti ... ii 208</td>
+    <td>Emberiza hortulana ... ii 121</td>
+  </tr>
+  <tr>
+    <td>Alauda cristata ... ii 191</td>
+    <td>*Cetti's Warbler ... ii 208</td>
+    <td>Emberiza melanocephala ... ii 106</td>
+  </tr>
+  <tr>
+    <td>Alpine Accentor ... i 133</td>
+    <td>Chaffinch ... ii 97</td>
+    <td>Emberiza miliaria ... ii 109</td>
+  </tr>
+  <tr>
+    <td>*American Robin ... i 28</td>
+    <td>Chelidon urbica ... ii 35</td>
+    <td>*Emberiza pusilla ... ii 126</td>
+  </tr>
+  <tr>
+    <td>Ampelis garrulus ... ii 18</td>
+    <td>Chiffchaff ... i 96</td>
+    <td>*Emberiza rustica ... ii 125</td>
+  </tr>
+  <tr>
+    <td>Anthus campestris ... i 201</td>
+    <td>Chough ... ii 148</td>
+    <td>Emberiza schæniclus ... ii 126</td>
+  </tr>
+  <tr>
+    <td>*Anthus cervinus ... i 201</td>
+    <td>Chrysomitrís citrinella ... ii 68</td>
+    <td>Erithacus rubecula ... i 52</td>
+  </tr>
+  <tr>
+    <td>Anthus obscurus ... i 207</td>
+    <td>Chrysomitrís spinus ... ii 65</td>
+    <td>Fieldfare ... i 14</td>
+  </tr>
+  <tr>
+    <td>Anthus pratensis ... i 196</td>
+    <td>Cinclus aquaticus ... i 137</td>
+    <td>Fire-Crested Wren ... i 88</td>
+  </tr>
+  <tr>
+    <td>Anthus richardi ... i 204</td>
+    <td>Cirl Bunting ... ii 117</td>
+    <td>Fringilla cælebs ... ii 97</td>
+  </tr>
+  <tr>
+    <td>*Anthus spipoletta ... i 207</td>
+    <td>*Citril Finch ... ii 68</td>
+    <td>Fringilla montifringilla ... ii 102</td>
+  </tr>
+  <tr>
+    <td>Anthus trivialis ... i 193</td>
+    <td>Coal-Tit ... i 151</td>
+    <td>Garden Warbler ... i 72</td>
+  </tr>
+  <tr>
+    <td>Aquatic Warbler ... i 120</td>
+    <td>*Coccothraustes vulgaris ... ii 46</td>
+    <td>Garrulus glandarius ... ii 155</td>
+  </tr>
+  <tr>
+    <td>*Ashy-Headed Wagtail ... ii 210</td>
+    <td>Common Crossbill ... ii 52</td>
+    <td>Golden-Crested Wren ... i 84</td>
+  </tr>
+  <tr>
+    <td>Barred Warbler ... i 77</td>
+    <td>Corn-Bunting ... ii 109</td>
+    <td>Golden Oriole ... ii 2</td>
+  </tr>
+  <tr>
+    <td>Bearded Reedling ... i 141</td>
+    <td>Corvus corax ... ii 167</td>
+    <td>Goldfinch ... ii 69</td>
+  </tr>
+  <tr>
+    <td>Blackbird ... i 19</td>
+    <td>Corvus cornix ... ii 175</td>
+    <td>Grasshopper Warbler ... i 122</td>
+  </tr>
+  <tr>
+    <td>Blackcap ... i 69</td>
+    <td>Corvus corone ... ii 171</td>
+    <td>Great Grey Shrike ... ii 6</td>
+  </tr>
+  <tr>
+    <td>Black Redstart ... i 44</td>
+    <td>Corvus frugilegus ... ii 178</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>*Black-Throated Thrush ... i 27</td>
+    <td>Corvus monedula ... ii 162</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>*Black-Throated Wheatear ... i 33</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>

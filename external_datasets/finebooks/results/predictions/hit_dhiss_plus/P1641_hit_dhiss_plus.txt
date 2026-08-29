@@ -1,0 +1,4 @@
+RAW_TEXT_START
+Page dimensions: 780.0x1024.0
+
+RAW_TEXT_END

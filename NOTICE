@@ -1,0 +1,29 @@
+HiT — third-party components and datasets
+==========================================
+
+This repository bundles or depends on the following third-party work. Each is
+used under its own license; this NOTICE documents attribution.
+
+Code
+----
+* docTR (Mindee) — Apache License 2.0.
+  `finetuning/train_pytorch.py`, `finetuning/utils.py`, `finetuning/evaluate_pytorch.py`
+  are docTR's recognition reference scripts (from doctr v0.11.0-17-g903e9114d), included
+  verbatim with their original Apache-2.0 headers. https://github.com/mindee/doctr
+* olmOCR (Allen Institute for AI) — used as a rendering/prompt dependency
+  (`olmocr.data.renderpdf`, `olmocr.prompts`). See its repository for license terms.
+
+Datasets
+--------
+* finebooks / BHL ground truth — CC-BY 3.0.
+  "IMPACT Centre of Competence & Biodiversity Heritage Library (2012). IMPACT-BHL
+  ground truth (PRImA PAGE XML, CC-BY 3.0)." Hugging Face: finebooks/bhl-impact-gt.
+  Redistributed here (external_datasets/finebooks/gt/) with attribution.
+* Rodrigo corpus 1.0.0 — Zenodo doi:10.5281/zenodo.1490009.
+  Serrano, N., Castro-Bleda, M. J., & Juan, A. "The RODRIGO Database", LREC 2010.
+  Page-level GT under external_datasets/rodrigo/gt/ is reconstructed from the corpus.
+
+Model weights
+-------------
+* DHiSS / DHiSS+ fine-tuned recognizers are hosted on the Hugging Face Hub
+  (tsunayoshi21/HiT-DHiSS-recognizers) and fetched via ocr_weights/download.py.
