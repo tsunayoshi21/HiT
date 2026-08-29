@@ -14,25 +14,25 @@ setting for OCR.
 
 | Doc | Pages | Original document | Source |
 |---|---:|---|---|
-| DOC01 | 4  | (Ampliación) Declaración M. Townley — 21.04.78 | Letelier collection |
-| DOC02 | 10 | Declaración M. Callejas — 16.09.91 | Letelier collection |
-| DOC03 | 5  | Comparecencia M. Townley — 01.04.78 | Letelier collection |
-| DOC04 | 27 | Declaración M. Townley — sin fechar | Letelier collection |
+| DOC01 | 4  | (Ampliación) Declaración M. Townley — 21.04.78 | CIPER — Letelier collection |
+| DOC02 | 10 | Declaración M. Callejas — 16.09.91 | CIPER — Letelier collection |
+| DOC03 | 5  | Comparecencia M. Townley — 01.04.78 | CIPER — Letelier collection |
+| DOC04 | 27 | Declaración M. Townley — sin fechar | CIPER — Letelier collection |
 | DOC05 | 2  | Quiñones | Vicaría — obtained via collaboration |
 | DOC06 | 11 | Quiñones | Vicaría — obtained via collaboration |
-| DOC07 | 51 | Declaración M. Townley — sin fechar | Letelier collection |
-| DOC08 | 68 | Confirmación sentencia caso Letelier — 30.05.1995 | Letelier collection |
-| DOC09 | 1  | Carta de M. Townley a Gustavo Etchepare — 02.06.78 | Letelier collection |
-| DOC10 | 2  | Minuta policial caso Letelier — sin fechar | Letelier collection |
+| DOC07 | 51 | Declaración M. Townley — sin fechar | CIPER — Letelier collection |
+| DOC08 | 68 | Confirmación sentencia caso Letelier — 30.05.1995 | CIPER — Letelier collection |
+| DOC09 | 1  | Carta de M. Townley a Gustavo Etchepare — 02.06.78 | CIPER — Letelier collection |
+| DOC10 | 2  | Minuta policial caso Letelier — sin fechar | CIPER — Letelier collection |
 | DOC11 | 33 | Informe Manuel Contreras | El Mundo (elmundo.es) |
-| DOC12 | 2  | Confesión Michael Townley — 13.03.78 | Letelier collection |
-| DOC13 | 6  | Declaración Eric Marcy — septiembre 1991 | Letelier collection |
-| DOC14 | 22 | Querella caso Letelier — 20.07.1991 | Letelier collection |
+| DOC12 | 2  | Confesión Michael Townley — 13.03.78 | CIPER — Letelier collection |
+| DOC13 | 6  | Declaración Eric Marcy — septiembre 1991 | CIPER — Letelier collection |
+| DOC14 | 22 | Querella caso Letelier — 20.07.1991 | CIPER — Letelier collection |
 | **Total** | **244** | | |
 
 **Collections / links**
 
-- **Letelier collection** (DOC01–04, DOC07–10, DOC12–14) — public Google Journalist
+- **CIPER — Letelier collection** (DOC01–04, DOC07–10, DOC12–14) — public Google Journalist
   Studio *Pinpoint* collection:
   `https://journaliststudio.google.com/pinpoint/search?collection=dde1fa4b375f1cdb`
 - **El Mundo** (DOC11) — *Informe Manuel Contreras*, published by elmundo.es:
