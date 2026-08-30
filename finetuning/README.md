@@ -26,6 +26,19 @@ of **word-crop images** plus a `labels.json` mapping `{crop_filename: transcript
 | val   | **37 101** |
 | **total** | **185 503** |
 
+## Download the data
+The two datasets (doctr recognition format) are hosted on the Hugging Face Hub:
+
+```bash
+python finetuning/download_datasets.py --unzip                 # both
+python finetuning/download_datasets.py --which DHiSS+ --unzip   # just DHiSS+ (v2)
+```
+
+`--unzip` extracts them next to this folder as `DHiss_Dataset_v1_corrected_full/` (DHiSS)
+and `DHiss_Dataset_v2/` (DHiSS+) — the folders `train_dhiss.sh` expects.
+Source: https://huggingface.co/datasets/tsunayoshi21/DHiSS-datasets
+(`DHiSS.zip` = v1-corrected, `DHiSS_plus.zip` = v2).
+
 ## Trainer
 The trainer is doctr's standard recognition reference script, **included here**:
 
